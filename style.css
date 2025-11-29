@@ -1,0 +1,46 @@
+
+body {
+  font-family: sans-serif;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #222;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 26px;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.day {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 15px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
